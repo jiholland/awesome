@@ -16,5 +16,5 @@
 🧘📚🌲 Other
 ------------
 - [Yoga](https://www.youtube.com/channel/UCciuZl2ydLCvN5txlLW0rIg) - Yoga with Tim Senesi.
-- [Nature](https://www.youtube.com/channel/UCfMgKSxyQ9KnbjY6L6JKKiQ) - Nature and outdoor videos made by Erik Normark.
+- [Nature/Outdoor](https://www.youtube.com/channel/UCfMgKSxyQ9KnbjY6L6JKKiQ) - Nature and outdoor videos made by Erik Normark.
 - [Books](https://github.com/hackerkid/Mind-Expanding-Books#readme) - List of mind expanding books.
