@@ -1,4 +1,4 @@
-🔥 Awesome stuff
+🔥 awesome stuff
 ================
 
 🔨 Network tools:
@@ -10,6 +10,6 @@
 - [PHPipam](https://github.com/phpipam/phpipam) - Open-source web IP address management application.
 - [Zabbix](https://github.com/zabbix) - The Ultimate open-source Enterprise—class Monitoring Platform.
 
-
-🧘 [Yoga](https://www.youtube.com/channel/UCciuZl2ydLCvN5txlLW0rIg)<br>
-📚 [Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)<br>
+Other:
+- [Yoga](https://www.youtube.com/channel/UCciuZl2ydLCvN5txlLW0rIg) 🧘
+- [Books](https://github.com/hackerkid/Mind-Expanding-Books#readme) 📚
