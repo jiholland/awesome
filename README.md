@@ -8,6 +8,7 @@
     - [Ansible newsletter](https://github.com/ansible/community/wiki/News) - Weekly newsletter for the Ansible developer community.
     - [Ansible subreddit](https://www.reddit.com/r/ansible/) - The Ansible subreddit.
     - [Awesome Ansible](https://github.com/ansible-community/awesome-ansible) - List of more awesome Ansible resources.
+    - [Ansible-VIM](https://github.com/pearofducks/ansible-vim) - VIM syntax plugin for Ansible.
 - [VIM](https://github.com/vim/vim) - The one and only editor.
 - [PHPipam](https://github.com/phpipam/phpipam) - Open-source web IP address management application.
 - [Zabbix](https://github.com/zabbix) - The Ultimate open-source Enterprise—class Monitoring Platform.
