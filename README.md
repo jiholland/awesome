@@ -10,7 +10,7 @@
     - [Ansible subreddit](https://www.reddit.com/r/ansible/) - The Ansible subreddit.
     - [Awesome Ansible](https://github.com/ansible-community/awesome-ansible) - List of awesome Ansible resources.
 - [VIM](https://github.com/vim/vim) - The one and only editor.
-- [PHPipam](https://github.com/phpipam/phpipam) - Open-source web IP address management application.
+- [phpIPAM](https://github.com/phpipam/phpipam) - Open-source web IP address management application.
 - [Zabbix](https://github.com/zabbix) - The Ultimate open-source Enterprise—class Monitoring Platform.
 
 🧘📚🌲 Other
