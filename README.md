@@ -1,7 +1,7 @@
 🔥 Awesome stuff
 ================
 
-😎[Awesome Ansible](https://github.com/ansible-community/awesome-ansible)<br>
+😎 [Awesome Ansible](https://github.com/ansible-community/awesome-ansible)<br>
 🔍 [Ansible-lint](https://github.com/ansible/ansible-lint)<br>
 🗞 [Ansible newsletter](https://github.com/ansible/community/wiki/News)<br>
 👷 [Ansible subreddit](https://www.reddit.com/r/ansible/)<br>
