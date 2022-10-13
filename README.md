@@ -13,10 +13,12 @@
     - [Awesome Ansible](https://github.com/ansible-community/awesome-ansible) - List of awesome Ansible resources.
 - [VIM](https://github.com/vim/vim) - The one and only editor.
 - [phpIPAM](https://github.com/phpipam/phpipam) - Open-source web IP address management application.
-- [Zabbix](https://github.com/zabbix) - The Ultimate open-source Enterprise—class Monitoring Platform.
+- [Zabbix](https://github.com/zabbix) - Open-source monitoring platform.
 
-🧘📚🌲 Other
-------------
+🧘🏃🥑🌲📚 Other
+----------------
 - [Yoga](https://www.youtube.com/channel/UCciuZl2ydLCvN5txlLW0rIg) - Yoga with Tim Senesi.
+- [Running](https://www.goodreads.com/book/show/6289283-born-to-run?from_search=true&from_srp=true&qid=lMrV3feLH9&rank=1) - Born to run.
+- [Intermittent fasting](https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work) - Diet.
 - [Nature/Outdoor](https://www.youtube.com/channel/UCfMgKSxyQ9KnbjY6L6JKKiQ) - Nature and outdoor videos made by Erik Normark.
 - [Books](https://github.com/hackerkid/Mind-Expanding-Books#readme) - List of mind expanding books.
