@@ -11,10 +11,11 @@
     - [Ansible blog](https://www.ansible.com/blog) - Official Ansible blog.
     - [Ansible Galaxy](https://galaxy.ansible.com) - Official repository and community site for Ansible Roles.
     - [Awesome Ansible](https://github.com/ansible-community/awesome-ansible) - List of awesome Ansible resources.
-- [VIM](https://github.com/vim/vim) - The one and only editor.
+- [VIM](https://github.com/vim/vim) - The ubiquitous text editor.
 - [phpIPAM](https://github.com/phpipam/phpipam) - Open-source web IP address management application.
 - [Zabbix](https://github.com/zabbix) - Open-source monitoring platform.
-- [Monodraw](https://monodraw.helftone.com) - Because not Visio.
+- [Monodraw](https://monodraw.helftone.com) - Plain text flowchart and diagramming software for MacOS.
+- [podman](https://podman.io) - Daemonless container engine.
 
 🧘🏃🥑🌲📚 Other
 ----------------
